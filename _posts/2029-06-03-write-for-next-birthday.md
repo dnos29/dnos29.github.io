@@ -3,9 +3,13 @@ layout: post
 title: write for my next birthday
 tags: [diary, birthday]
 ---
-<p id="nextbithday">This paragraph has a class "myclass"</p>
+<p id="nextbithday">
+    Hope u next year 
+</p>
 
 
 <script>
-    // alert('ok')
+    $(document).ready(function(){
+        $('#nextbithday').css('display', 'none')
+    })
 </script>
