@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BGer's birthday
+title: Họa Mi Hót's birthday
 tags: [birthday]
 ---
 <style>
