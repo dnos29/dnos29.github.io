@@ -63,7 +63,7 @@ tags: [birthday]
     if(now_month > m){
         p.name = '<span>&#10004;</span> ' + p.name;
     }else if(now_month ==  m){
-        p.name = '<span class="active">&#127919;</span> ' + p.name;
+        p.name = '<span class="active">&#10687;</span> ' + p.name;
     }else{
         if(next_month == m){
             p.name = '<span class="prepare">&#9971;</span> ' + p.name;
