@@ -37,8 +37,8 @@ tags: [birthday]
     {name: 'Mai Duy Thanh', birthday: '10/5/1995', phone: '0375787324'},
     {name: 'Nguyễn Thị Thủy', birthday: '12/11/1996', phone: '0354064724'},
     {name: 'Phạm Thu Trang', birthday: '19/03/1996', phone: '0328695658'},
-    {name: 'Mai Hồng Anh', birthday: '31/11/1997', phone: ''},
-    {name: 'Lê Hồng Hạnh', birthday: '26/10/1997', phone: '26/10/1997'}
+    {name: 'Mai Hồng Anh', birthday: '31/11/1997', phone: '0983801481'},
+    {name: 'Lê Hồng Hạnh', birthday: '26/10/1997', phone: '039 5416 890'}
     ];
     people.map(function(p){
     let dataSplited = p.birthday.split('/');
