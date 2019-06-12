@@ -38,7 +38,7 @@ tags: [birthday]
     {name: 'Nguyễn Thị Thủy', birthday: '12/11/1996', phone: '0354064724'},
     {name: 'Phạm Thu Trang', birthday: '19/03/1996', phone: '0328695658'},
     {name: 'Mai Hồng Anh', birthday: '31/11/1997', phone: '0983801481'},
-    {name: 'Lê Hồng Hạnh', birthday: '26/10/1997', phone: '039 5416 890'}
+    {name: 'Lê Hồng Hạnh', birthday: '26/10/1997', phone: '0395416890'}
     ];
     people.map(function(p){
     let dataSplited = p.birthday.split('/');
@@ -61,12 +61,12 @@ tags: [birthday]
     let d = String(p.birthday.getDate()).padStart(2, '0');
 
     if(now_month > m){
-        p.name = '<span>&#8226;</span> ' + p.name;
+        p.name = '<span>&#10004;</span> ' + p.name;
     }else if(now_month ==  m){
-        p.name = '<span class="active">&#8226;</span> ' + p.name;
+        p.name = '<span class="active">&#127919;</span> ' + p.name;
     }else{
         if(next_month == m){
-            p.name = '<span class="prepare">&#8226;</span> ' + p.name;
+            p.name = '<span class="prepare">&#9971;</span> ' + p.name;
         }
     }    
     p.birthday = d + '/' + m + '/' + y;
