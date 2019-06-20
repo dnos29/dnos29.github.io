@@ -2,7 +2,7 @@
 layout: post
 title: Họa Mi Hót's birthday
 tags: [birthday]
-categories: [common, travel]
+categories: [Common, Travel]
 ---
 <style>
     .active{
