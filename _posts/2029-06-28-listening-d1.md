@@ -3,7 +3,7 @@ layout: post
 title: Day 1
 categories: [English, Listening]
 ---
-###1> Meeting a new team member
+### 1> Meeting a new team member
 Peter: Hi, my name’s Peter. What’s your name?
 Carla: Hi, Peter. I’m Carla. I’m new here.
 Peter: Welcome to the company, Carla.
@@ -25,7 +25,7 @@ Peter: I’m from the UK.
 Carla: How long have you been here?
 Peter: I’ve worked here for three years but I actually moved here from the UK five years ago,
 to study. 
-###2> Booking a table
+### 2> Booking a table
 Staff: Hello, Gino’s.
 Jamie: Hi. Can I book a table for tomorrow night, please?
 Staff: How many people is it for?
@@ -56,7 +56,7 @@ Staff: Ah ... yeah, we can. Is eight OK for you?
 Jamie: Perfect, thanks!
 Staff: Lovely. See you tomorrow, then.
 Jamie: Thanks! Bye!
-###3> A voice messenge
+### 3> A voice messenge
 John: Hi, this is John. Thanks for calling. I’m not here at the moment, so please leave a
 message and I’ll call you back.
 Marina: Hi, John, this is Marina Silva calling from Old Time Toys. Your colleague Alex gave me
@@ -67,7 +67,7 @@ Also, can you please email me your new brochure and information about your price
 email address is Marina, that’s M-A-R-I-N-A, dot Silva, that’s S-I-L-V-A, at O-L-D-T-I-M-E hyphen
 toys dot com.
 Thanks a lot. I look forward to hearing from you.
-###4> Finding the library
+### 4> Finding the library
 Student: Hi. Excuse me.
 Student B: Yes?
 Student: Where’s the library?
@@ -101,7 +101,7 @@ Student: No food, no drink. And ...?
 Librarian: And please speak quietly! People are working here.
 Student: Oh! Oh, OK. Thank you.
 Librarian: You’re welcome.
-###5> A request from boss
+### 5> A request from boss
 Susanne: Hi, Mario. Can you help me prepare some things for the next month?
 Mario: OK, sure. What can I help you with?
 Susanne: I need to visit the customer in Germany. It's important.
@@ -120,7 +120,7 @@ presentation to our managers next month. Please do it when you have time – som
 next two or three weeks. It's not too urgent.
 Mario: Sure, no problem. I can do it this week.
 Susanne: There's no hurry. Take your time
-###6> Bussiness card
+### 6> Bussiness card
 A: Hello, Doctor Miller. It’s nice to meet you.
 B: Please call me Peter.
 A: OK. Are you a medical doctor? It must be helpful when you sell medical equipment.
