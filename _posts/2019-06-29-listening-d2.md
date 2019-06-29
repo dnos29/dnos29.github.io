@@ -4,7 +4,7 @@ title: Day 2
 categories: [English, Listening]
 ---
 ### 1> Meeting people at a dinner
-Charles: Hello, Julian.
+Charles: Hello, Julian.    
 Julian: Hello, Charles. How are you?
 Charles: I’m fine. Fine. Julian, do you remember Alyssa?
 Julian: No, I don’t.
