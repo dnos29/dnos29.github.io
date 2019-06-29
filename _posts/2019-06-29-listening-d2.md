@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 1
+title: Day 2
 categories: [English, Listening]
 ---
 ### 1> Meeting people at a dinner
