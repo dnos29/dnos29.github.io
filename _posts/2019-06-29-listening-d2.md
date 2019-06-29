@@ -21,7 +21,7 @@ Charles: Good. Would you like a drink?
 Julian: Good idea.  
 Alyssa: Yes, please.
 Charles: Here you are.  
-Alyssa and Julian: Thanks!  
+Alyssa and Julian: Thanks!
 ### 2> Ordering in cafe
 Customer 1: Can I have an orange juice, please?  
 Server: Regular or large?  
@@ -54,7 +54,7 @@ Server: Would you like a drink with that?
 Customer 3: No, thanks. Just the cookie.  
 Server: OK, then. That’s 95p, please.  
 Customer 3: Thanks. I think that’s right.  
-Server: 50, 70, 80, 85, 90, 92, 94, yep, 95. Thank you.  
+Server: 50, 70, 80, 85, 90, 92, 94, yep, 95. Thank you.
 ### 3> Organising a group project
 Cara: So for our group project, do you want to start this week?  
 Selim: Yeah, I want to start early so we have enough time.  
@@ -78,8 +78,8 @@ Selim: Cake is good.
 Robert: OK, so Wednesday at the café. I need to leave at ten to five to go to my maths class.  
 Cara: No problem. Planning will take less than an hour.  
 Selim: OK! See you Wednesday for cake.  
-Robert and Cara: See you, Selim!  
-### 4> Shopping for clothers  
+Robert and Cara: See you, Selim!
+### 4> Shopping for clothers
 1  
 Shop assistant: Hello, can I help you?  
 Customer: I’m just looking, thanks.  
@@ -102,7 +102,7 @@ Shop assistant: Yes, you can. Of course.
 5  
 Shop assistant: Would you like a bag for that?  
 Customer: Yes, please.  
-### 5> The first English class  
+### 5> The first English class
 Hello, everyone. Hello! It’s nice to see you all here. Welcome to British Life and Language. I am
 your teacher. My name is Lindsay Black. That’s L-I-N-D-S-A-Y Black. Before we begin, some
 information about the class.  
